@@ -8,7 +8,24 @@
 
 ---
 
+### About Me
+
+- 💻 Experienced in web development.
+- ⚙️ Interested in backend systems and automation.
+- 🐧 Comfortable exploring Linux environments and command-line tools.
+- 🤝 Open to collaboration on interesting projects.
+
+---
+
 ### My Journey
+
+- **2026-2020**: Freelancing and personal projects, including e-commerce and delivery systems, platforms for selling tickets to in-person events, custom automation tasks, and data processing.
+- **2020**: First real project delivered, including a checkout process integrated with a payment system, a blog, and an administrative dashboard.
+- **2017-2019**: Began programming journey through a technical course in web-related computing at a <a href="https://www.ifspcaraguatatuba.edu.br/">Federal Institute</a>.
+
+<details>
+
+<summary>Detailed journey</summary>
 
 ```mermaid
 ---
@@ -40,6 +57,10 @@ timeline TD
         : I began my journey into the world of programming through a technical course in web-related computing at the Federal Institute.
 ```
 
+
+</details>
+
+
 ---
 
 ### Technologies
@@ -69,3 +90,25 @@ timeline TD
 #### I've Explored
 
 <img src="https://skillicons.dev/icons?i=bitbucket,cs,dotnet,electron,godot,gradle,java,mongo,nginx,nodejs,npm,postgres,react,sass,sentry,svg,threejs,unity,vite,vitest&theme=dark" alt="Development tools and systems" />
+
+---
+
+### Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/geovani-ra">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.x.com/GeovaniRCA/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=x&logoColor=0A66C2" alt="X" />
+</a>
+
+<a href="www.linkedin.com/in/geovani-r-almeida-904a2b228">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+
+
+</div>
+
