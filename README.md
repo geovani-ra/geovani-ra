@@ -19,7 +19,7 @@
 
 ### My Journey
 
-- **2026-2020**: Freelancing and personal projects, including e-commerce and delivery systems, platforms for selling tickets to in-person events, custom automation tasks, and data processing.
+- **2020-2026**: Freelancing and personal projects, including e-commerce and delivery systems, platforms for selling tickets to in-person events, custom automation tasks, and data processing.
 - **2020**: First real project delivered, including a checkout process integrated with a payment system, a blog, and an administrative dashboard.
 - **2017-2019**: Began programming journey through a technical course in web-related computing at a <a href="https://www.ifspcaraguatatuba.edu.br/">Federal Institute</a>.
 
@@ -95,20 +95,6 @@ timeline TD
 
 ### Let's Connect
 
-<div align="center">
-
-<a href="https://github.com/geovani-ra">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.x.com/GeovaniRCA/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=x&logoColor=0A66C2" alt="X" />
-</a>
-
-<a href="www.linkedin.com/in/geovani-r-almeida-904a2b228">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-
-
-</div>
-
+<a href="https://github.com/geovani-ra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/GeovaniRCA" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/geovani-r-almeida-904a2b228" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
