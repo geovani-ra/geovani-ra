@@ -1,13 +1,8 @@
-
 ### Hi, I'm Geovani 👋
 
-<p>
 I am software developer from Brazil <img src="https://cdn-icons-png.flaticon.com/128/14009/14009874.png" width="13">.
-</p>
 
----
-
-### About Me
+##### About Me:
 
 - 💻 Experienced in web development.
 - ⚙️ Interested in backend systems and automation.
@@ -16,15 +11,35 @@ I am software developer from Brazil <img src="https://cdn-icons-png.flaticon.com
 
 ---
 
+#### My projects
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/geovani-ra/jackett-client-app">
+<b>Jackett client app</b>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Contributors" src="https://img.shields.io/github/contributors/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Watchers" src="https://img.shields.io/github/watchers/geovani-ra/jackett-client-app?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+---
+
 ### My Journey
 
-- **2026 (H2)**: Studying mobile development and experimenting with AI agents.
-- **2026 (H1)**: Explored generative AI, reinforcement learning, and coding assistants.
-- **2025**: Started an undergraduate degree in Systems Analysis and Development at PUC Minas (expected graduation in 2027).
-- **2020–2025**: Freelanced on e-commerce, delivery systems, automation, data processing, API integrations, and ticketing platforms.
-- **2019 (H2)**: Delivered the first real project, featuring checkout, payment integration, a blog, and an admin dashboard.
-- **2019 (H1)**: Expanded knowledge of web development technologies.
-- **2017–2018**: Started learning programming through a technical course in web development at the Federal Institute.
+- **2017–2018**: Started my programming journey through a technical course in web development.
+- **2019**: Delivered my first real-world project, featuring a payment system, blog, and admin dashboard.
+- **2020–2025**: Worked as a freelancer on web platforms, automations, API integrations, and data processing solutions.
+- **2025–2027**: Pursuing a degree in Systems Analysis and Development at PUC Minas.
+- **2026–Present**: Exploring generative AI, reinforcement learning, AI agents, and mobile development.
 
 <details>
 
@@ -37,40 +52,40 @@ config:
 ---
 timeline TD
 
-    2026 Q3-Q4 <br> Present
-        : I am studying mobile development and experimenting with AI agents.
+    2017 Q3 ⟶ 2018 <br> The Beginning
+        : I began my journey into the world of programming through a technical course in web-related computing at the Federal Institute.
 
-    2026 Q1-Q2 <br> AI Exploration
-        : I began exploring the world of generative AI, including a reinforcement learning project, and started using coding assistants.
+    2019 Q1-Q2 <br> Learning & Exploration
+        : I deepened my knowledge of the development technologies learned during the course.
 
-    2025 Q3 <br> Undergraduate Studies
-        : I have begun an undergraduate degree in Systems Analysis and Development at PUC Minas (completion in 2027).
+    2019 Q3-Q4 <br> First Real Project
+        : I delivered my first website; it included a checkout process integrated with a payment system, a blog, and an administrative dashboard.
 
     2020-2025 Q2 <br> Freelancing
         : I have worked as a freelancer on various projects, such as e-commerce sites, delivery systems, custom automation tasks, data processing, API integrations
         : and a platform for selling tickets to in-person events.
 
-    2019 Q3-Q4 <br> First Real Project
-        : I delivered my first website; it included a checkout process integrated with a payment system, a blog, and an administrative dashboard.
+    2025 Q3 <br> Undergraduate Studies
+        : I have begun an undergraduate degree in Systems Analysis and Development at PUC Minas (completion in 2027).
 
-    2019 Q1-Q2 <br> Learning & Exploration
-        : I deepened my knowledge of the development technologies learned during the course.
+    2026 Q1-Q2 <br> AI Exploration
+        : I began exploring the world of generative AI, including a reinforcement learning project, and started using coding assistants.
 
-    2017 Q3 ⟶ 2018 <br> The Beginning
-        : I began my journey into the world of programming through a technical course in web-related computing at the Federal Institute.
+    2026 Q3-Q4 <br> Present
+        : I am studying mobile development and experimenting with AI agents.
 ```
-
 
 </details>
 
+<br>
 
 ---
 
 ### Technologies
 
-#### I'm Proficient In
+##### I'm Proficient In
 
-##### Frontend
+###### Frontend
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -82,16 +97,17 @@ timeline TD
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-#### Backend
+###### Backend
 
 <p>
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<!-- <img alt="Composer" src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white" /> -->
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-#### DevOps, Tools & Other Technologies
+###### DevOps, Tools & Other Technologies
 
 <p>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -115,6 +131,7 @@ timeline TD
 <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img alt="Caddy" src="https://img.shields.io/badge/-Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
