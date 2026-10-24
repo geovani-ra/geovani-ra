@@ -50,6 +50,22 @@ I am software developer from Brazil <img src="https://cdn-icons-png.flaticon.com
 </td>
 </tr>
 
+<tr>
+<td>
+<a href="https://github.com/geovani-ra/comfyui-telegram-image-saver">
+<small><b>comfyui-telegram-image-saver</b></small>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/geovani-ra/comfyui-telegram-image-saver?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/geovani-ra/comfyui-telegram-image-saver?style=flat-square"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/geovani-ra/comfyui-telegram-image-saver?style=flat-square"/>
+<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geovani-ra/comfyui-telegram-image-saver?style=flat-square"/>
+<img alt="Contributors" src="https://img.shields.io/github/contributors/geovani-ra/comfyui-telegram-image-saver?style=flat-square"/>
+<img alt="Watchers" src="https://img.shields.io/github/watchers/geovani-ra/comfyui-telegram-image-saver?style=flat-square"/>
+</td>
+</tr>
+
 </table>
 
 ###### My stars
