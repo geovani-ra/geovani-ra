@@ -24,6 +24,7 @@ I am software developer from Brazil <img src="https://cdn-icons-png.flaticon.com
 </a>
 </td>
 <td>
+<img src="https://img.shields.io/github/actions/workflow/status/geovani-ra/jackett-client-app/android-build.yml">
 <img alt="Stars" src="https://img.shields.io/github/stars/geovani-ra/jackett-client-app?style=flat-square"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/geovani-ra/jackett-client-app?style=flat-square"/>
 <img alt="Issues" src="https://img.shields.io/github/issues/geovani-ra/jackett-client-app?style=flat-square"/>
