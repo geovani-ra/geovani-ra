@@ -15,13 +15,14 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 
 ### Projetos
 
-###### Meus projetos
+###### Meus repositórios
 
-<table>
+<table border>
+
 <tr>
 <td>
 <a href="https://github.com/geovani-ra/jackett-client-app">
-<b>Jackett client app</b>
+<small><b>jackett-client-app</b></small>
 </a>
 </td>
 <td>
@@ -33,11 +34,29 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 <img alt="Watchers" src="https://img.shields.io/github/watchers/geovani-ra/jackett-client-app?style=flat-square"/>
 </td>
 </tr>
+
+<tr>
+<td>
+<a href="https://github.com/geovani-ra/jackett-client-telegram-bot">
+<small><b>jackett-client-telegram-bot</b></small>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/geovani-ra/jackett-client-telegram-bot?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/geovani-ra/jackett-client-telegram-bot?style=flat-square"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/geovani-ra/jackett-client-telegram-bot?style=flat-square"/>
+<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geovani-ra/jackett-client-telegram-bot?style=flat-square"/>
+<img alt="Contributors" src="https://img.shields.io/github/contributors/geovani-ra/jackett-client-telegram-bot?style=flat-square"/>
+<img alt="Watchers" src="https://img.shields.io/github/watchers/geovani-ra/jackett-client-telegram-bot?style=flat-square"/>
+</td>
+</tr>
+
 </table>
 
 ###### Minhas estrelas
 
 <table>
+
 <tr>
 <td>
 <a href="https://github.com/php/php-src">
@@ -53,20 +72,20 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 <tr>
 <tr>
 <td>
-<a href="https://github.com/laravel/laravel">
+<a href="https://github.com/laravel/framework">
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </a>
 </td>
 <td>
-<img alt="Stars" src="https://img.shields.io/github/stars/laravel/laravel?style=flat-square"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/laravel/laravel?style=flat-square"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/laravel/framework?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/laravel/framework?style=flat-square"/>
 </td>
 </tr>
 
 <tr>
 <td>
 <a href="https://github.com/vueuse/vueuse">
-<b>VueUse</b>
+<small><b>vueuse/vueuse</b></small>
 </a>
 </td>
 <td>
@@ -102,7 +121,7 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 <tr>
 <td>
 <a href="https://github.com/Anuken/Mindustry">
-<img alt="Mindustry" src="https://raw.githubusercontent.com/Anuken/Mindustry/refs/heads/master/core/assets-raw/sprites/ui/logo.png" height="14" />
+<img alt="Mindustry" src="https://raw.githubusercontent.com/Anuken/Mindustry/refs/heads/master/core/assets-raw/sprites/ui/logo.png" height="12" />
 </a>
 </td>
 <td>
@@ -114,7 +133,7 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 <tr>
 <td>
 <a href="https://github.com/donnemartin/system-design-primer">
-<b>System Design Primer</b>
+<small><b>donnemartin/system-design-primer</b></small>
 </a>
 </td>
 <td>
@@ -122,6 +141,7 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 <img alt="Forks" src="https://img.shields.io/github/forks/donnemartin/system-design-primer?style=flat-square"/>
 </td>
 </tr>
+
 <tr>
 <td>
 <a href="https://github.com/torvalds/linux">
@@ -132,6 +152,7 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 <img alt="Stars" src="https://img.shields.io/github/stars/torvalds/linux?style=flat-square"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/torvalds/linux?style=flat-square"/>
 </tr>
+
 </table>
 
 ---
