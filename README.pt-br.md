@@ -1,8 +1,6 @@
 ### Olá, sou o Geovani 👋
 
-<p>
 Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon.com/128/14009/14009874.png" width="13">.
-</p>
 
 ---
 
@@ -15,15 +13,138 @@ Sou desenvolvedor de software do Brasil <img src="https://cdn-icons-png.flaticon
 
 ---
 
+### Projetos
+
+###### Meus projetos
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/geovani-ra/jackett-client-app">
+<b>Jackett client app</b>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Contributors" src="https://img.shields.io/github/contributors/geovani-ra/jackett-client-app?style=flat-square"/>
+<img alt="Watchers" src="https://img.shields.io/github/watchers/geovani-ra/jackett-client-app?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+###### Minhas estrelas
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/php/php-src">
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/php/php-src?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/php/php-src?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<tr>
+<td>
+<a href="https://github.com/laravel/laravel">
+<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/laravel/laravel?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/laravel/laravel?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/vueuse/vueuse">
+<b>VueUse</b>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/vueuse/vueuse?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/vueuse/vueuse?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/vuejs/vue">
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/vuejs/vue?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/vuejs/vue?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/vuetifyjs/vuetify">
+<img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/vuetifyjs/vuetify?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/vuetifyjs/vuetify?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Anuken/Mindustry">
+<img alt="Mindustry" src="https://raw.githubusercontent.com/Anuken/Mindustry/refs/heads/master/core/assets-raw/sprites/ui/logo.png" height="14" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/Anuken/Mindustry?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Anuken/Mindustry?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/donnemartin/system-design-primer">
+<b>System Design Primer</b>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/donnemartin/system-design-primer?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/donnemartin/system-design-primer?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/torvalds/linux">
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/torvalds/linux?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/torvalds/linux?style=flat-square"/>
+</tr>
+</table>
+
+---
+
 ### Minha Trajetória
 
-- **2026 (2º semestre)**: Estudando desenvolvimento mobile e experimentando agentes de IA.
-- **2026 (1º semestre)**: Explorei IA generativa, aprendizado por reforço e assistentes de programação.
-- **2025**: Iniciei a graduação em Análise e Desenvolvimento de Sistemas na PUC Minas (conclusão prevista para 2027).
-- **2020–2025**: Freelancer em e-commerce, sistemas de delivery, automação, processamento de dados, integrações de APIs e plataformas de venda de ingressos.
-- **2019 (2º semestre)**: Entreguei o primeiro projeto real, com checkout, integração de pagamento, um blog e um painel administrativo.
+- **2017–2018**: Comecei a programar por meio de um curso técnico em desenvolvimento web no Instituto Federal.
 - **2019 (1º semestre)**: Ampliei meus conhecimentos em tecnologias de desenvolvimento web.
-- **2017–2018**: Comecei a aprender programação em um curso técnico em desenvolvimento web no Instituto Federal.
+- **2019 (2º semestre)**: Entreguei o primeiro projeto real, com sistema de pagamento, blog e painel administrativo.
+- **2020–2025**: Freelancer em e-commerce, sistemas de delivery, automação, processamento de dados, integrações de APIs e plataformas de venda de ingressos.
+- **2025**: Iniciei a graduação em Análise e Desenvolvimento de Sistemas na PUC Minas (conclusão prevista para 2027).
+- **2026 (1º semestre)**: Explorei IA generativa, aprendizado por reforço e assistentes de programação.
+- **2026 (2º semestre)**: Estudando desenvolvimento mobile e experimentando agentes de IA.
 
 <details>
 
@@ -36,27 +157,27 @@ config:
 ---
 timeline TD
 
-    2026 Q3-Q4 <br> Atualmente
-        : Estou estudando desenvolvimento mobile e experimentando agentes de IA.
+    2017 Q3 ⟶ 2018 <br> O Começo
+        : Iniciei minha jornada no mundo da programação por meio de um curso técnico em desenvolvimento web no Instituto Federal.
 
-    2026 Q1-Q2 <br> Exploração de IA
-        : Comecei a explorar o mundo da IA generativa, incluindo um projeto de aprendizado por reforço, e passei a usar assistentes de programação.
+    2019 Q1-Q2 <br> Aprendizado & Exploração
+        : Aprofundei meus conhecimentos nas tecnologias de desenvolvimento aprendidas durante o curso.
 
-    2025 Q3 <br> Graduação
-        : Iniciei a graduação em Análise e Desenvolvimento de Sistemas na PUC Minas (conclusão prevista para 2027).
+    2019 Q3-Q4 <br> Primeiro Projeto Real
+        : Entreguei meu primeiro site; ele incluía um processo de checkout integrado a um sistema de pagamento, um blog e um painel administrativo.
 
     2020-2025 Q2 <br> Freelancer
         : Trabalhei como freelancer em diversos projetos, como sites de e-commerce, sistemas de delivery, tarefas de automação sob medida, processamento de dados, integrações de APIs
         : e uma plataforma para venda de ingressos de eventos presenciais.
 
-    2019 Q3-Q4 <br> Primeiro Projeto Real
-        : Entreguei meu primeiro site; ele incluía um processo de checkout integrado a um sistema de pagamento, um blog e um painel administrativo.
+    2025 Q3 <br> Graduação
+        : Iniciei a graduação em Análise e Desenvolvimento de Sistemas na PUC Minas (conclusão prevista para 2027).
 
-    2019 Q1-Q2 <br> Aprendizado & Exploração
-        : Aprofundei meus conhecimentos nas tecnologias de desenvolvimento aprendidas durante o curso.
+    2026 Q1-Q2 <br> Exploração de IA
+        : Comecei a explorar o mundo da IA generativa, incluindo um projeto de aprendizado por reforço, e passei a usar assistentes de programação.
 
-    2017 Q3 ⟶ 2018 <br> O Começo
-        : Iniciei minha jornada no mundo da programação por meio de um curso técnico em informática para internet no Instituto Federal.
+    2026 Q3-Q4 <br> Atualmente
+        : Estou estudando desenvolvimento mobile e experimentando agentes de IA.
 ```
 
 </details>
@@ -65,9 +186,9 @@ timeline TD
 
 ### Tecnologias
 
-#### Tenho Domínio em
+##### Tenho Domínio em
 
-##### Frontend
+###### Frontend
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -79,16 +200,17 @@ timeline TD
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-#### Backend
+###### Backend
 
 <p>
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<!-- <img alt="Composer" src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white" /> -->
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-#### DevOps, Ferramentas & Outras Tecnologias
+###### DevOps, Ferramentas & Outras Tecnologias
 
 <p>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -131,4 +253,4 @@ timeline TD
 
 <a href="https://github.com/geovani-ra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://x.com/GeovaniRCA" target="_blank"><img alt="x" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/geovani-r-almeida-904a2b228" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/geovani-ra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
