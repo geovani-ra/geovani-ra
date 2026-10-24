@@ -242,6 +242,7 @@ Frameworks & Libraries:<br>
 <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+<img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-7FC8FF?style=flat-square&logo=langgraph&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -282,6 +283,11 @@ Other Technologies I've Interacted With:<br>
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="PWA" src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+<img alt="Fabric.js" src="https://img.shields.io/badge/-Fabric.js-76cef4?style=flat-square&logo=fabricdotjs&logoColor=white" />
+<img alt="Konva" src="https://img.shields.io/badge/-Konva-0584ce?style=flat-square&logo=konva&logoColor=white" />
+<img alt="SVG.js" src="https://img.shields.io/badge/-SVG.js-FFB13B?style=flat-square&logo=svgdotjs&logoColor=white" />
+<img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+<img alt="ApexCharts" src="https://img.shields.io/badge/-ApexCharts-008ffb?style=flat-square&logo=apexcharts&logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img alt="Web componentes" src="https://img.shields.io/badge/-Web_components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white" />
@@ -299,6 +305,7 @@ Other Technologies I've Interacted With:<br>
 <img alt="zod" src="https://img.shields.io/badge/-zod-000000?style=flat-square&logo=zod&logoColor=white" />
 <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img alt="Mermaid" src="https://img.shields.io/badge/-Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 <img alt="New Relic" src="https://img.shields.io/badge/-New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -307,7 +314,6 @@ Other Technologies I've Interacted With:<br>
 <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <img alt="ComfyUI" src="https://img.shields.io/badge/-ComfyUI-f2ff59?style=flat-square&logo=comfyui&logoColor=black" />
-
 </p>
 
 ---
