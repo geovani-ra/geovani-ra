@@ -11,8 +11,9 @@ I am software developer from Brazil <img src="https://cdn-icons-png.flaticon.com
 
 ---
 
-#### My projects
+#### Projects
 
+###### My projects
 <table>
 <tr>
 <td>
@@ -28,6 +29,105 @@ I am software developer from Brazil <img src="https://cdn-icons-png.flaticon.com
 <img alt="Contributors" src="https://img.shields.io/github/contributors/geovani-ra/jackett-client-app?style=flat-square"/>
 <img alt="Watchers" src="https://img.shields.io/github/watchers/geovani-ra/jackett-client-app?style=flat-square"/>
 </td>
+</tr>
+</table>
+
+###### My stars
+<table>
+<tr>
+<td>
+<a href="https://github.com/php/php-src">
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/php/php-src?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/php/php-src?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<tr>
+<td>
+<a href="https://github.com/laravel/laravel">
+<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/laravel/laravel?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/laravel/laravel?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/vueuse/vueuse">
+<b>VueUse</b>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/vueuse/vueuse?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/vueuse/vueuse?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/vuejs/vue">
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/vuejs/vue?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/vuejs/vue?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/vuetifyjs/vuetify">
+<img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/vuetifyjs/vuetify?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/vuetifyjs/vuetify?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Anuken/Mindustry">
+<img alt="Mindustry" src="https://raw.githubusercontent.com/Anuken/Mindustry/refs/heads/master/core/assets-raw/sprites/ui/logo.png" height="14" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/Anuken/Mindustry?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Anuken/Mindustry?style=flat-square"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<a href="https://github.com/donnemartin/system-design-primer">
+<b>System Design Primer</b>
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/donnemartin/system-design-primer?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/donnemartin/system-design-primer?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/torvalds/linux">
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/torvalds/linux?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/torvalds/linux?style=flat-square"/>
 </tr>
 </table>
 
