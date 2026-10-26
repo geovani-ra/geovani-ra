@@ -159,6 +159,17 @@ I am software developer from Brazil <img src="https://cdn-icons-png.flaticon.com
 
 <tr>
 <td>
+<a href="https://github.com/langchain-ai/langgraphjs">
+<img alt="Langgraphjs" src="https://img.shields.io/badge/-Langgraph.js-7FC8FF?style=flat-square&logo=langgraph&logoColor=white" />
+</a>
+</td>
+<td>
+<img alt="Stars" src="https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=flat-square"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/langchain-ai/langgraphjs?style=flat-square"/>
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/torvalds/linux">
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </a>
@@ -271,8 +282,7 @@ Services & Tools:<br>
 ---
 <br>
 <p>
-Other Technologies I've Interacted With:<br>
-
+Other Technologies I've Interacted With:<br><br>
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Composer" src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white" />
